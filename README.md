@@ -59,3 +59,8 @@ To run the example locally run `pymaceuticals_starter.ipynb` file in Jupyter Not
  * Jupyter Notebook 
  * Pandas
  * Matplotlib
+
+
+#
+
+#### Contact: mil.haszek@gmail.com
